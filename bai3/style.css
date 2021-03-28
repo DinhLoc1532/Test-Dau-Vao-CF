@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    margin: 0 auto;
+    height: 200px;
+    width: 500px;
+    background-color: rgb(152, 153, 153);
+}
+
+.header {
+    height: 30%;
+    background-color: black;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+}
+
+.noti {
+    display: block;
+    font-size: 21px;
+    margin: 32px 0;
+}
+
+input {
+    height: 40px;
+    width: 196px;
+    font-size: 14px;
+    border-radius: 3px;
+}
+
+button {
+    height: 40px;
+    width: 125px;
+    font-size: 14px;
+    border-radius: 3px;
+}
